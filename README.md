@@ -12,7 +12,7 @@ An Java 8 Code For My Co-Workers, An Repo For Currency Converter with Java
 
 ## License
 
->> Gnu Public License
+>> MIT Public License
 >> Code By - @Rohith-sreedharan
 
 ## About Me
